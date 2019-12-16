@@ -1,0 +1,7 @@
+simplejson
+tensorboardX
+ujson
+tqdm
+h5py==2.7.1
+psutil
+scipy
